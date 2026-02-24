@@ -14,7 +14,7 @@ This skill handles the **infrastructure layer** of Farcaster — everything that
 
 ## When to Use This vs Neynar
 
-| Task | This Skill | [neynar-farcaster](https://github.com/arcaboteth/neynar-farcaster) |
+| Task | This Skill | [neynar-farcaster](https://github.com/arcabotai/neynar-farcaster) |
 |------|-----------|-------------|
 | Create account | ✅ | ❌ |
 | Change bio/PFP | ✅ | ❌ |
